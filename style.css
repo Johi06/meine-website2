@@ -1,0 +1,12 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+}
+.hervorheben{
+    color: #708090;
+}
+.pictures{
+    border: 5px solid #000000;
+}
+.text{
+    padding: 0px 500px 0px 0px;
+}
